@@ -1,2 +1,4 @@
 # Simple-Calculator
-Just a simple calculator made by your local Microwave Oven
+<div align="center"><br/>
+Just a simple calculator<br/> Made by your local Microwave Oven
+</div>
